@@ -42,4 +42,4 @@ Build a classifier that predicts if the customer is a interested in credit card 
 
 ## Report 
 
-Credit Card Lead Prediction Report
+[Credit Card Lead Prediction Report](https://github.com/aayanmaity/Credit_Card_Lead_Prediction-JOB-A-THON/blob/main/Report/Credit%20Card%20Lead%20Prediction(Approach).pdf)
